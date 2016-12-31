@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Track xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <gameVersion>0.8.0</gameVersion>
+  <localID>
+    <str>a9976d55-9d51-45bc-97ad-e94e2dd84492</str>
+    <version>1</version>
+    <type>TRACK</type>
+  </localID>
+  <name>101 Building 3</name>
+  <description />
+  <dependencies />
+  <environment>TheDrawingBoard</environment>
+  <blueprints>
+    <TrackBlueprint xsi:type="TrackBlueprintFlag">
+      <itemID>AirFlagv01StartFinish01</itemID>
+      <instanceID>0</instanceID>
+      <position>
+        <x>-1.471093</x>
+        <y>0</y>
+        <z>9.02566051</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <purpose>Functional</purpose>
+    </TrackBlueprint>
+    <TrackBlueprint xsi:type="TrackBlueprintFlag">
+      <itemID>AirFlagv01StartFinish01</itemID>
+      <instanceID>1</instanceID>
+      <position>
+        <x>-3.1559217</x>
+        <y>0</y>
+        <z>9.348344</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <purpose>Functional</purpose>
+    </TrackBlueprint>
+    <TrackBlueprint xsi:type="TrackBlueprintFlag">
+      <itemID>AirFlagv01StartFinish01</itemID>
+      <instanceID>2</instanceID>
+      <position>
+        <x>0.396664441</x>
+        <y>0</y>
+        <z>8.538063</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <purpose>Functional</purpose>
+    </TrackBlueprint>
+    <TrackBlueprint xsi:type="TrackBlueprintFlag">
+      <itemID>AirFlagv01StartFinish01</itemID>
+      <instanceID>3</instanceID>
+      <position>
+        <x>2.69762468</x>
+        <y>0</y>
+        <z>8.63336</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <purpose>Functional</purpose>
+    </TrackBlueprint>
+    <TrackBlueprint xsi:type="TrackBlueprintFlag">
+      <itemID>AirgateBig240H300B01ImmersionRC01</itemID>
+      <instanceID>4</instanceID>
+      <position>
+        <x>-3.63527751</x>
+        <y>0</y>
+        <z>12.1489363</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <purpose>Functional</purpose>
+    </TrackBlueprint>
+    <TrackBlueprint xsi:type="TrackBlueprintFlag">
+      <itemID>AirgateBig240H300B01ImmersionRC01</itemID>
+      <instanceID>5</instanceID>
+      <position>
+        <x>0.738387167</x>
+        <y>0</y>
+        <z>11.9072514</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <purpose>Functional</purpose>
+    </TrackBlueprint>
+    <TrackBlueprint xsi:type="TrackBlueprintFlag">
+      <itemID>AirgateBig240H300B01ImmersionRC01</itemID>
+      <instanceID>6</instanceID>
+      <position>
+        <x>5.71356153</x>
+        <y>0</y>
+        <z>12.2992115</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <purpose>Functional</purpose>
+    </TrackBlueprint>
